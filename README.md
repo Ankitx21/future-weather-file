@@ -1,6 +1,6 @@
 ---
 title: Future Weather Generator
-emoji: C
+emoji: "🌦️"
 colorFrom: blue
 colorTo: green
 sdk: docker
